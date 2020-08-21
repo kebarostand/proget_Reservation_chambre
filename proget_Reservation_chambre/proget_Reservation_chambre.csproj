@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA11C2B6-AEA8-4863-9FD7-FA3BFDE6E2A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>proget_Reservation_chambre</RootNamespace>
+    <AssemblyName>proget_Reservation_chambre</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2.UI, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2.Extensions, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classeDoc\clcConnexion.cs" />
+    <Compile Include="classeDoc\ClsBase.cs" />
+    <Compile Include="classeDoc\clsChambre.cs" />
+    <Compile Include="classeDoc\clsClasse.cs" />
+    <Compile Include="classeDoc\clsClient.cs" />
+    <Compile Include="classeDoc\clsConstante.cs" />
+    <Compile Include="classeDoc\clsGlossaires.cs" />
+    <Compile Include="classeDoc\clsPaiement.cs" />
+    <Compile Include="classeDoc\clsReservation.cs" />
+    <Compile Include="classeDoc\clsSms.cs" />
+    <Compile Include="classeDoc\clsUtilisateur.cs" />
+    <Compile Include="classeDoc\pubCon.cs" />
+    <Compile Include="classeDoc\pubConnect.cs" />
+    <Compile Include="formulaire\FormChambre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\FormChambre.Designer.cs">
+      <DependentUpon>FormChambre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\formClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\formClient.Designer.cs">
+      <DependentUpon>formClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\formPaiement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\formPaiement.Designer.cs">
+      <DependentUpon>formPaiement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\formReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\formReservation.Designer.cs">
+      <DependentUpon>formReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\formulaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\formulaire.Designer.cs">
+      <DependentUpon>formulaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\formulairePrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\formulairePrincipal.Designer.cs">
+      <DependentUpon>formulairePrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\formUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\formUser.Designer.cs">
+      <DependentUpon>formUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\frmClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\frmClasse.Designer.cs">
+      <DependentUpon>frmClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\frmConfigiration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\frmConfigiration.Designer.cs">
+      <DependentUpon>frmConfigiration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formulaire\frmSms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulaire\frmSms.Designer.cs">
+      <DependentUpon>frmSms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ripoty\listechambre.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ripoty\listechambre.Designer.cs">
+      <DependentUpon>listechambre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ripoty\listeReservation.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ripoty\listeReservation.Designer.cs">
+      <DependentUpon>listeReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ripoty\recuPaiement.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ripoty\recuPaiement.Designer.cs">
+      <DependentUpon>recuPaiement.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="formulaire\FormChambre.resx">
+      <DependentUpon>FormChambre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\formClient.resx">
+      <DependentUpon>formClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\formPaiement.resx">
+      <DependentUpon>formPaiement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\formReservation.resx">
+      <DependentUpon>formReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\formulaire.resx">
+      <DependentUpon>formulaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\formulairePrincipal.resx">
+      <DependentUpon>formulairePrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\formUser.resx">
+      <DependentUpon>formUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\frmClasse.resx">
+      <DependentUpon>frmClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\frmConfigiration.resx">
+      <DependentUpon>frmConfigiration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formulaire\frmSms.resx">
+      <DependentUpon>frmSms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ripoty\listechambre.resx">
+      <DependentUpon>listechambre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ripoty\listeReservation.resx">
+      <DependentUpon>listeReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ripoty\recuPaiement.resx">
+      <DependentUpon>recuPaiement.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

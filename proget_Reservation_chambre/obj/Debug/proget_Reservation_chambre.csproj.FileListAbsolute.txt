@@ -1,0 +1,380 @@
+c:\users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\proget_Reservation_chambre.exe.config
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.csprojResolveAssemblyReference.cache
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.Form1.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formulairePrincipal.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.Properties.Resources.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.csproj.GenerateResource.Cache
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.exe.licenses
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\proget_Reservation_chambre.exe
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\proget_Reservation_chambre.pdb
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.exe
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.pdb
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formClient.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmClasse.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.FormChambre.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formPaiement.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formReservation.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formUser.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmLogin.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Xpo.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.CodeParser.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Xpo.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.ripoty.liste_chambre.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.ripoty.listeReservation.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmConfigiration.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmSms.resources
+C:\Users\rostand\documents\visual studio 2015\Projects\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.ripoty.recuPaiement.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\proget_Reservation_chambre.exe.config
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.exe
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.pdb
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\proget_Reservation_chambre.exe
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\proget_Reservation_chambre.pdb
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Data.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Office.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Xpo.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraBars.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Data.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.csprojResolveAssemblyReference.cache
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.FormChambre.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formClient.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formPaiement.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formReservation.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.Form1.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formulairePrincipal.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.formUser.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmClasse.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmConfigiration.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmLogin.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.formulaire.frmSms.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.Properties.Resources.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.ripoty.liste_chambre.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.ripoty.listeReservation.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.ripoty.recuPaiement.resources
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.csproj.GenerateResource.Cache
+E:\proget\proget_Reservation_chambre\proget_Reservation_chambre\obj\Debug\proget_Reservation_chambre.exe.licenses
